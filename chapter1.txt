@@ -1,1 +1,18 @@
-hello world hi its me
+git commands
+
+cd directory name like
+cd Desktop/
+to make directory
+cd mkdir name
+to make file
+touch chapter1.txt
+start chapter1.txt
+
+to add file to git init from work directory
+git init
+git add chapter1.txt
+git commit -m "must explicitly write what changes we have made here"
+git log
+
+to check hiden directory
+ls -a
